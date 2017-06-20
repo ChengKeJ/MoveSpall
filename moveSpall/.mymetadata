@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="moveSpall"
+  id="myeclipse.1496322164955"
+  context-root="/moveSpall"
+  j2ee-spec="5.0"
+  archive="moveSpall.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
